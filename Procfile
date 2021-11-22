@@ -1,0 +1,1 @@
+web: java -Dport=$PORT -Dstore=memory -jar target/officiel-lab-production-0.0.1-SNAPSHOT.jar
